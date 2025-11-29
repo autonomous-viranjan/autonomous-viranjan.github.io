@@ -5,7 +5,7 @@ function handleButtonClick() {
     const button = document.getElementById('action-button');
 
     // 2. Change the text content
-    messageArea.textContent = "You clicked the button! Interactivity achieved.";
+    messageArea.textContent = "More info coming soon...";
 
     // 3. Change the styling using JavaScript
     messageArea.style.color = "#28a745"; // Changes text color to green
