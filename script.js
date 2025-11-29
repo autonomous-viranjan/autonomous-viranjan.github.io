@@ -12,7 +12,7 @@ function handleButtonClick() {
     messageArea.style.backgroundColor = "#d4edda"; // Changes background color
 
     // 4. Change the button text
-    button.textContent = "Clicked!";
+    button.textContent = "Thanks!";
 }
 
 // Add an event listener to the button
